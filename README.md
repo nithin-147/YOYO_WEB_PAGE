@@ -85,3 +85,33 @@ YOYO is deployed using **GitHub Pages**. Here's how to do it yourself:
 - **HTML & CSS Best Practices**: [Google HTML/CSS Guide](https://google.github.io/styleguide/htmlcssguide.html) 🌟  
 
 Happy Coding! 🚀💻  
+
+
+
+
+
+
+
+
+### Project Structure
+yoyo-booking/
+│
+├── index.html                # Home page  
+├── login.html                # Login page  
+├── register.html             # Signup page  
+├── profile.html              # User profile page  
+│  
+├── css/  
+│   └── style.css             # Custom CSS styles  
+│  
+├── js/  
+│   └── main.js               # JavaScript functions  
+│  
+├── php/  
+│   ├── connect.php           # Database connection  
+│   ├── login.php             # Handles user login  
+│   └── register.php          # Handles user registration  
+│  
+└── database/  
+    └── yoyo_db.sql           # SQL script for database setup  
+
