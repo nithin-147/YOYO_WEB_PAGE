@@ -24,10 +24,34 @@ Welcome to **YOYO**, your go-to platform for seamless and enjoyable hotel bookin
 
 - **📥 Footer**  
   - Includes links to social media (Facebook, Instagram, Twitter) and legal pages like **Terms of Service**. 🔗  
-  - Newsletter subscription form to stay updated on offers and deals. 📰📧  
+  - Newsletter subscription form to stay updated on offers and deals. 📰📧
+ 
+  - ![Screenshot 2024-11-29 194529](https://github.com/user-attachments/assets/5313dff6-761d-4b49-ab65-d888c7f2dc4c)
+
+ 
+  - ![Screenshot 2024-11-29 194254](https://github.com/user-attachments/assets/fd40bbc9-c8e4-44ca-913a-5bbfd6b9eb96)
+
+  - ![Screenshot 2024-11-29 194316](https://github.com/user-attachments/assets/798646c2-458d-4654-8373-a310433a32e2)
+  - 
+  - ![Screenshot 2024-11-29 194331](https://github.com/user-attachments/assets/57db51d9-86ee-424e-9e17-7c5e689761b1)
+
+  - ![Screenshot 2024-11-29 194351](https://github.com/user-attachments/assets/e33b02f8-6625-4df3-9ad8-d952c44d0a95)
+  - 
+  - ![Screenshot 2024-11-29 194419](https://github.com/user-attachments/assets/762d8079-abeb-4865-8adc-862ca67c4616)
+  - 
+  - ![Screenshot 2024-11-29 194450](https://github.com/user-attachments/assets/74067c8b-0b06-4143-8a68-3cf2baa682a8)
+  - 
+  - ![Screenshot 2024-11-29 194504](https://github.com/user-attachments/assets/985de4a1-4589-48e4-b0e3-61ccfbaf1ab8)
+  - 
+  - ![Screenshot 2024-11-29 194537](https://github.com/user-attachments/assets/64ea96e5-80b9-4e20-bbbb-2cbf896ba4f8)
+
+  - 
+  - ![Screenshot 2024-11-29 195301](https://github.com/user-attachments/assets/5e750fdb-90e7-4024-9319-eb122ec0e422)
+  - 
+  - ![Screenshot 2024-11-29 195320](https://github.com/user-attachments/assets/0ad8d895-db8d-42c6-87b3-d5509b56943e)
+
 
 ### 🚀 Features Coming Soon
-
 - **🔍 Advanced Search Filters**  
   - Filter by price, location, amenities, and ratings for a personalized experience. 💸📍🌟  
 
